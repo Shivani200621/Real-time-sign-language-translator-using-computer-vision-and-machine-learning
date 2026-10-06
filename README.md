@@ -50,18 +50,33 @@ The system detects hand landmarks using **MediaPipe** and uses a trained **K-Nea
      🔍 SIGN PREDICTION
             ↓
        💬 TEXT OUTPUT
+       ```
+       ```
        ## 🛠️ Technologies Used
 
-| Technology | Purpose |
-|---|---|
-| 🐍 **Python** | Main programming language |
-| 🎨 **Streamlit** | Web application interface |
-| 👁️ **OpenCV** | Image and camera processing |
-| ✋ **MediaPipe** | Hand landmark detection |
-| 🧠 **Scikit-learn** | Machine learning model |
-| 🔢 **NumPy** | Numerical data processing |
-| 💾 **Pickle** | Saving and loading the trained model |
+### 🐍 Python
+Main programming language.
 
+### 🎨 Streamlit
+Used to create the web application interface.
+
+### 👁️ OpenCV
+Used for image and camera processing.
+
+### ✋ MediaPipe
+Used for detecting hand landmarks.
+
+### 🧠 Scikit-learn
+Used for the KNN machine learning model.
+
+### 🔢 NumPy
+Used for numerical data processing.
+
+### 💾 Pickle
+Used to save and load the trained model.
+
+---
+     
 ---
 
 ## 📁 Project Structure
